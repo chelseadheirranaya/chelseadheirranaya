@@ -1,15 +1,11 @@
-# Hey, I’m Chelsea 👋🚀
+# Hey, I’m Chelsea Dheirranaya 👋
 
-🎓 Data Science student at Universitas Airlangga  
+🎓 Data Science Technology student at Universitas Airlangga  
 
 ---
+## Core Expertise
 
-## Core Competencies
-
-My projects and competition work involve applying statistical analysis and machine learning to real datasets, including spatial analysis, time series analysis, image processing, and interactive dashboard development.
-
-I am currently deepening my understanding of natural language processing, exploring modern deep learning based approaches.
-
+My academic projects and competition experience center on data analysis using statistical techniques and machine learning applied to real world data. This work spans statistical modeling, time series analysis, spatial analysis, natural language processing, image processing, and the development of interactive dashboards that turn complex findings into clear, actionable insights.
 ---
 
 ## 🧰 Technical Toolkit
@@ -45,5 +41,5 @@ I am currently deepening my understanding of natural language processing, explor
 ---
 
 ## 📫 Let’s Connect
-📧 Email: your_email@gmail.com  
-💼 LinkedIn: linkedin.com/in/yourusername
+📧 Email: chelseadheirranaya@gmail.com  
+💼 LinkedIn: linkedin.com/in/chelseadheirranaya/
