@@ -3,9 +3,9 @@
 ## 🎓 Data Science Technology at Universitas Airlangga  
 
 ---
-#### Core Expertise
+### Core Expertise
 
-My academic projects and competition experience center on data analysis using statistical techniques and machine learning applied to real world data. This work spans **statistical modeling, time series analysis, spatial analysis, natural language processing, image processing, and the development of interactive dashboards** that turn complex findings into clear, actionable insights.
+#### My academic projects and competition experience center on data analysis using statistical techniques and machine learning applied to real world data. This work spans **statistical modeling, time series analysis, spatial analysis, natural language processing, image processing, and the development of interactive dashboards** that turn complex findings into clear, actionable insights.
 ---
 
 ## 🧰 Technical Toolkit
