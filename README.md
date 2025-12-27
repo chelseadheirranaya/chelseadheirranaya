@@ -1,6 +1,6 @@
 # Hey, I’m Chelsea Dheirranaya 👋
 
-🎓 Data Science Technology student at Universitas Airlangga  
+🎓 Data Science Technology at Universitas Airlangga  
 
 ---
 ## Core Expertise
